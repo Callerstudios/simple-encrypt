@@ -1,0 +1,29 @@
+{
+  "name": "simple-encrypt",
+  "version": "1.0.0",
+  "description": "a simple data encryptor using character shifting and character mixing",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Callerstudios/simple-encrypt.git"
+  },
+  "keywords": [
+    "encrypt",
+    "security",
+    "decrypt",
+    "data-protection",
+    "cipher",
+    "key",
+    "key-management"
+  ],
+  "author": "callerstudios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Callerstudios/simple-encrypt/issues"
+  },
+  "homepage": "https://github.com/Callerstudios/simple-encrypt#readme"
+}
