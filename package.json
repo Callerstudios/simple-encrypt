@@ -1,6 +1,6 @@
 {
   "name": "simple-encrypt-decrypt-cipher",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "a simple data encryptor using character shifting and character mixing",
   "main": "index.js",
   "type": "module",
